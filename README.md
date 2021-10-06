@@ -16,7 +16,7 @@ my email: jakwendellblazer@gmail.com
 
 languages i know:
 
-html, css, js
+html, css, js, lua
 
 languages i kinda know:
 
